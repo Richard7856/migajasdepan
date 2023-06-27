@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "83033989914",
+    "project_id": "migajas-8187b",
+    "storage_bucket": "migajas-8187b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83033989914:android:7bb4f5473b7799f89702a3",
+        "android_client_info": {
+          "package_name": "com.mycompany.migajasdepan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83033989914-lc7k0oad3lbo48t6148n4aagva5r4t21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.migajasdepan",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "83033989914-na43b6ac5aqdfe42u61ukpgol09cb669.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADs33GSlP9QggdQ748J-X-turQdAUOLp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83033989914-na43b6ac5aqdfe42u61ukpgol09cb669.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83033989914-p2ab74900unmdvpgk9gqkmpbvmi3fh6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.migajasdepan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
